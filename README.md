@@ -138,7 +138,7 @@
 <table>
   <tr>
     <td align="left" width="24">
-      <img src="/images/outlook.svg" width="24" height="24" alt="Outlook" />
+      <img src="/images/outlook.png" width="24" height="24" alt="Outlook" />
     </td>
     <td align="left">
       <a href="mailto:straton.alexandru@usm.md">straton.alexandru@usm.md</a>
