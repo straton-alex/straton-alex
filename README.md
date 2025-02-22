@@ -1,4 +1,4 @@
-## Hey 👋, I'm Alexandru Straton!
+# Hey 👋, I'm Alexandru Straton!
 
 <table>
   <tr>
@@ -8,103 +8,51 @@
     <td>
       <h2>Hey 👋, I'm Alexandru Straton!</h2>
       <p>
-        I’m an IT student 💻. With a strong motivation to work in the technology and business industry. 
-        Seeking to gain insight and experience in software and web development, networking, and professional growth. 
-        I consider myself a curious person in the world of technology and I’m always learning as much information as possible 
-        to increase my knowledge and technical skills in this field.
+        I’m an IT student 💻 with a strong motivation to work in the technology and business industry. 
+        I'm eager to gain insight and experience in software and web development, networking, and professional growth. 
+        I consider myself a curious and passionate learner, always striving to expand my technical skills and knowledge in the field of technology.
       </p>
     </td>
   </tr>
 </table>
 
-<h2 align="left" id="straton-alex">Favorite Tech</h2>
+## 🌟 Areas of Interest
+- Software Development
+- Database Management
+- Cloud Computing
 
-> Programming Languages.
-
+## 💻 Programming Languages
+### Languages I Know
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#straton-alex">
-        <img src="/images/sql.svg" width="48" height="48" alt="SQL" />
-      </a>
+      <img src="/images/sql.svg" width="48" height="48" alt="SQL" />
       <br>SQL
     </td>
     <td align="center" width="96">
-      <a href="#straton-alex">
-        <img src="/images/dot_net.svg" width="48" height="48" alt="C#" />
-      </a>
+      <img src="/images/dot_net.svg" width="48" height="48" alt="C#" />
       <br>C#
     </td>
     <td align="center" width="96">
-      <a href="#straton-alex">
-        <img src="/images/java.svg" width="48" height="48" alt="java" />
-      </a>
-      <br>JAVA
+      <img src="/images/java.svg" width="48" height="48" alt="Java" />
+      <br>Java
     </td>
     <td align="center" width="96">
-      <a href="#straton-alex">
-        <img src="/images/js.svg" width="48" height="48" alt="js" />
-      </a>
-      <br>JS
+      <img src="/images/js.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#straton-alex">
-        <img src="/images/css.svg" width="48" height="48" alt="css" />
-      </a>
+      <img src="/images/css.svg" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
     <td align="center" width="96">
-      <a href="#straton-alex">
-        <img src="/images/html.svg" width="48" height="48" alt="html" />
-      </a>
+      <img src="/images/html.svg" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
-  </table>
-
-> IDE's, Tools and other things that I like to work with.
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#straton-alex">
-        <img src="/images/vs_code.svg" width="48" height="48" alt="vs-code" />
-      </a>
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <a href="#straton-alex">
-        <img src="/images/vs_studio.svg" width="48" height="48" alt="vs-studio" />
-      </a>
-      <br>VS Studio
-    </td>
-    <td align="center" width="96">
-      <a href="#straton-alex">
-        <img src="/images/android_studio.svg" width="48" height="48" alt="android-studio" />
-      </a>
-      <br>Android
-    </td>
-    <td align="center" width="96">
-      <a href="#straton-alex">
-        <img src="/images/my_sql.svg" width="48" height="48" alt="mySQL-workbench" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#straton-alex">
-        <img src="/images/photoshop.svg" width="48" height="48" alt="photoshop" />
-      </a>
-      <br>Photoshop 
-    </td>
-    </td>
-    <td align="center" width="96">
-      <a href="#straton-alex">
-        <img src="/images/debian.svg" width="48" height="48" alt="debian" />
-      </a>
-      <br>Debian
+  </tr>
 </table>
 
-> Languages I'm Learning.
-
+### Languages I'm Learning
 <table>
   <tr>
     <td align="center" width="150">
@@ -118,8 +66,7 @@
   </tr>
 </table>
 
-> Languages I Want to Learn.
-
+### Languages I Want to Learn
 <table>
   <tr>
     <td align="center" width="150">
@@ -133,8 +80,37 @@
   </tr>
 </table>
 
-<h2 align="left" id="straton-alex">Contacts</h2>
+## 🛠️ Tools & IDEs
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="/images/vs_code.svg" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="/images/vs_studio.svg" width="48" height="48" alt="Visual Studio" />
+      <br>Visual Studio
+    </td>
+    <td align="center" width="96">
+      <img src="/images/android_studio.svg" width="48" height="48" alt="Android Studio" />
+      <br>Android Studio
+    </td>
+    <td align="center" width="96">
+      <img src="/images/my_sql.svg" width="48" height="48" alt="MySQL Workbench" />
+      <br>MySQL Workbench
+    </td>
+    <td align="center" width="96">
+      <img src="/images/photoshop.svg" width="48" height="48" alt="Photoshop" />
+      <br>Photoshop
+    </td>
+    <td align="center" width="96">
+      <img src="/images/debian.svg" width="48" height="48" alt="Debian" />
+      <br>Debian
+    </td>
+  </tr>
+</table>
 
+## 📩 Contact Me
 <table>
   <tr>
     <td align="left" width="24">
